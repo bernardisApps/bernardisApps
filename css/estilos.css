@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(12,12,91,1);
+}
+
+.perfil{
+    text-align: center;
+    background: rgb(12,12,91);
+    background: linear-gradient(346deg, rgba(12,12,91,1) 35%, rgba(0,212,255,1) 80%);
+}
+
+.datos{
+    background-color: rgba(12,12,91,1);
+    color: white;
+    text-align: justify;
+    
+}
+
+.principal{
+    background-color: white;
+}
+
+p{
+    font-size: medium;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.card-body{
+    display: none;
+}
